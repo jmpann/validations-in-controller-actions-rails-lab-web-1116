@@ -1,3 +1,4 @@
+
 # Validations In Controller Actions Lab
 
 Time to apply these new tools!
